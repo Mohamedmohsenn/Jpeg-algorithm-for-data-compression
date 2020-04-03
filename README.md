@@ -1,0 +1,1 @@
+# Jpeg-algorithm-for-data-compression
