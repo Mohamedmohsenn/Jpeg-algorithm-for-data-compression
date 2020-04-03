@@ -1,1 +1,1 @@
-# Jpeg-algorithm-for-data-compression
+# Jpeg-algorithm-for-data-compression-including-GUI
